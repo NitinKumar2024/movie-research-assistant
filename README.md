@@ -2,7 +2,7 @@
 
 A powerful desktop application that helps users find information about movies, watch trailers, and get answers to movie-related questions using AI.
 
-![Movie Research Assistant](https://github.com/nitinkumar2024/movie-research-assistant/static/img/screenshots/app_screenshot.png)
+![Movie Research Assistant](static/img/screenshots/app_screenshot.png)
 
 ## Features
 
